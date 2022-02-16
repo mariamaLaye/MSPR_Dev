@@ -1,6 +1,6 @@
 mousqueton Mousqueton
 gants Gants d’intervention
-brassard Brassard de sécurité
+brassard Brassard de securite
 menottes Porte menottes
 cyno Bandeau agent cynophile
 talky Talkies walkies
