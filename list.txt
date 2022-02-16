@@ -7,4 +7,4 @@ talky Talkies walkies
 lampe Lampe Torche
 kit Kit oreillette
 taser Tasers
-lacrymo Bombes lacrymogènes
+lacrymo Bombes lacrymogenes
